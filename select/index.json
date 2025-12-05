@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Borderland",
+  "base_artist": "Mami Kawada",
+  "createdAt": "2025-12-05T12:34:11.096454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Ásgeir",
+      "has_synced": true,
+      "path": "select/01_Borderland_Ásgeir.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/02_Borderland_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/03_Borderland_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/04_Borderland_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Daryll-Ann",
+      "has_synced": false,
+      "path": "select/05_Borderland_Daryll-Ann.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "The Chevin",
+      "has_synced": true,
+      "path": "select/06_Borderland_The_Chevin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "John Mark McMillan",
+      "has_synced": false,
+      "path": "select/07_Borderland_John_Mark_McMillan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/08_Borderland_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Jimmie Dale Gilmore",
+      "has_synced": false,
+      "path": "select/09_Borderland_Jimmie_Dale_Gilmore.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Kawada Mami",
+      "has_synced": true,
+      "path": "select/10_Borderland_Kawada_Mami.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "Brymir",
+      "has_synced": false,
+      "path": "select/11_Borderland_Brymir.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Borderland",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/12_Borderland_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Borderland Vigil",
+      "artist": "Fabricant",
+      "has_synced": true,
+      "path": "select/13_Borderland_Vigil_Fabricant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Birds of the Borderland",
+      "artist": "The Stray Birds",
+      "has_synced": true,
+      "path": "select/14_Birds_of_the_Borderland_The_Stray_Birds.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Borderland (Lo-Fi Version)",
+      "artist": "Ásgeir",
+      "has_synced": false,
+      "path": "select/15_Borderland_(Lo-Fi_Version)_Ásgeir.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_Borderland_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_02_Borderland_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_03_Borderland_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_04_Borderland_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_05_Borderland_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Borderland",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_06_Borderland_川田_まみ.txt"
+    }
+  ]
+}
